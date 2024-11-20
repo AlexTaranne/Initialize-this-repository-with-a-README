@@ -1,2 +1,2 @@
-Remote
+LOCAL
 Hello everyone!
