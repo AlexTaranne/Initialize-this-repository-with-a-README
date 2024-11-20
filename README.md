@@ -1,2 +1,2 @@
-Remote
+REMOTE
 Hello everyone!
